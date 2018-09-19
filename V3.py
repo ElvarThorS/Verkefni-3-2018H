@@ -1,7 +1,7 @@
 #Elvar Þór Sævarsson
 #Verkefni 3
 #10.9.2018
-
+from sys import argv
 from bottle import *
 
 @route("/")
